@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[click here for a demo recipe](https://jovial-kalam-e2f070.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
