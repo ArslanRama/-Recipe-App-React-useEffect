@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import Recipe from './Recipe';
-import './App.css';
+import Recipe from './Components/Recipe';
+import './styles/App.css';
 import axios from "axios"
 
 const App = () => {
