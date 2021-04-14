@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[click for DEMO](https://jovial-kalam-e2f070.netlify.app/)
+[Click for DEMO!](https://jovial-kalam-e2f070.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
